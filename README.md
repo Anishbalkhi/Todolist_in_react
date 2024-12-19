@@ -5,26 +5,26 @@ Here's a README file for your To-Do List in React project:
 
 **To-Do List in React**
 
-A simple, functional, and interactive To-Do List application built using React. This project helps users manage their tasks efficiently by adding, editing, and deleting items.
+     A simple, functional, and interactive To-Do List application built using React. This project helps users manage their tasks efficiently by adding, editing, and deleting items.
 
 **Features**
 
-Add tasks with ease.
+    Add tasks with ease.
 
-Edit existing tasks.
+    Edit existing tasks.
 
-Delete completed or unnecessary tasks.
+    Delete completed or unnecessary tasks.
 
-Responsive and user-friendly interface.
+    Responsive and user-friendly interface.
 
-Local storage support to persist tasks across sessions.
+    Local storage support to persist tasks across sessions.
 
 
 **Technologies Used**
 
-Frontend: React, Css, tailwindcss
+    Frontend: React, Css, tailwindcss
 
-Tools: npm, VS Code
+    Tools: npm, VS Code
 
 
 **Folder Structure**
